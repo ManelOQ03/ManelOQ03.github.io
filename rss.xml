@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Hollow Knight Game Review</title>
+        <link>https://ManelOQ03.github.io</link>
+        <description>A comprehensive review of Team Cherry's Hollow Knight, including gameplay elements, equipment, and DLC content</description>
+        <language>es-ES</language>
+        <image>
+            <title>Hollow Knight Logo</title>
+            <url>https://ManelOQ03.github.io/HK2.jpg</url>
+            <link>https://ManelOQ03.github.io</link>
+            <width>500</width>
+            <height>300</height>
+        </image>
+
+        <item>
+            <title>Main Character Art</title>
+            <link>https://ManelOQ03.github.io/HK2.jpg</link>
+            <description>Artistic representation of the Knight, the main character of Hollow Knight, showcasing its distinctive black body and white mask.</description>
+        </item>
+
+        <item>
+            <title>DLC Content</title>
+            <link>https://ManelOQ03.github.io/HK3.jpg</link>
+            <description>Overview of Hollow Knight's free DLC content including Hidden Dreams, The Grimm Troupe, Lifeblood, and Godmaster.</description>
+        </item>
+
+        <item>
+            <title>Charm System</title>
+            <link>https://ManelOQ03.github.io/HKA.png</link>
+            <description>Complete collection of charms available in the game, showing the intricate charm system used for character builds.</description>
+        </item>
+
+        <item>
+            <title>Equipment Interface</title>
+            <link>https://ManelOQ03.github.io/HKE.png</link>
+            <description>Game interface showing various equipment and abilities the Knight can acquire throughout the journey.</description>
+        </item>
+
+        <item>
+            <title>World Map</title>
+            <link>https://ManelOQ03.github.io/HKM.png</link>
+            <description>Detailed map of Hallownest showing various regions including Dirtmouth, City of Tears, and other major areas.</description>
+        </item>
+
+        <item>
+            <title>Game Trailer</title>
+            <link>https://www.youtube.com/embed/nSPJXlYjENE</link>
+            <description>Official trailer showcasing the atmospheric world and gameplay mechanics of Hollow Knight.</description>
+        </item>
+
+        <item>
+            <title>Gameplay Screenshot 1</title>
+            <link>https://ManelOQ03.github.io/images/gameplay1.jpg</link>
+            <description>Screenshot showing the Knight meeting another character in a dimly lit cavern.</description>
+        </item>
+
+        <item>
+            <title>Gameplay Screenshot 2</title>
+            <link>https://ManelOQ03.github.io/images/gameplay2.jpg</link>
+            <description>Close-up shot of the Knight with dramatic lighting effects.</description>
+        </item>
+
+    </channel>
+</rss>
