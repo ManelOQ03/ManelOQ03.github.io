@@ -1,1 +1,0 @@
-# m.ortizqueral.github.io
